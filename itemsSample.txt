@@ -1,0 +1,84 @@
+type	album
+uniqueId B0000024OG
+title	Blonde on Blonde
+person	Bob Dylan
+cost	8.99
+haveIt	yes
+Comment	Early, basic Dylan
+
+type	album
+uniqueId B00000253N
+title	Blood on the Tracks
+person	Bob Dylan
+cost	8.99
+haveIt	no
+Comment	One of Dylan's greatest albums
+
+type	album
+uniqueId B0000024SI
+title	Highway 61 Revisited
+person	Bob Dylan
+cost	8.99
+haveIt	yes
+comment	One of Dylan's earliest albums
+
+type	album
+uniqueId B000000XB9
+title	Vol. 1-Chronicle-20 Greatest Hits
+person	Creedence Clearwater Revival
+cost	13.49
+haveIt	no
+comment	Basic CCR
+
+type	album
+uniqueId B000006Q60
+title	The Best of Carlos Gardel
+person	Carlos Gardel
+cost	11.98
+haveIt	yes
+comment	Supposedly, the greatest Argentinian Tango singer
+
+type	movie
+uniqueId B2200024SI
+title	Citizen Kane
+person Orson Welles
+cost	19.99
+haveIt	yes
+comment	For many, the greatest movie ever
+date	1941
+
+type	movie
+uniqueId B22000253N
+title	The Emperor and the Assassin
+person Kaige Chen
+cost	26.99
+haveIt	no
+comment	An episode in the life of China's First Emperor
+date	1999
+
+type	Game
+uniqueId B728729453G
+title	Age of Empires III
+person Microsoft
+cost 39.50
+haveIt no
+comment if you like wars ..
+date 2005
+numberOfPlayers 8
+
+type	movie
+uniqueId B2200024OG
+title 	The Seven Samurai
+person Akira Kurosawa
+cost	29.96
+haveIt	yes
+comment	One of greatest samurai movies. Inspiration for The Magnificent Seven
+date	1954
+
+type	album
+uniqueId B00006V9A0
+title	Nirvana
+person	Nirvana
+cost	12.98
+haveIt	no
+comment some very good
